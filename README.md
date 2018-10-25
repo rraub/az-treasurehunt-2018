@@ -14,7 +14,7 @@
   * antonyms with the same letters
     * epitaphs <≠> happiest
     * inferno <≠> nonfire
- * syntonyms with the same letters
+  * syntonyms with the same letters
     * it’s <=> ‘tis
     * aye <=> yea
 
@@ -22,8 +22,7 @@
    * stuBBorNNeSS
    * miLLeNNiaLLy
 
-* Circuits
-  * [Series vs Parallel](https://physics.bu.edu/py106/notes/Circuits.html)
+* Circuits [Series vs Parallel](https://physics.bu.edu/py106/notes/Circuits.html)
   * ![Risistors Color Codes](./img/Resistor-Color-Code-Guide.jpg)
     * 203, 453, 683, 183
 
@@ -32,12 +31,11 @@
  
 
 * [Time Magaizne](https://en.wikipedia.org/wiki/Time_(magazine))
+
 ![time magazine logo](./img/time-mag.png)
 
-* [Scytale](https://en.wikipedia.org/wiki/Scytale)
-  * [Decoder](https://www.dcode.fr/scytale-cipher)
+* [Scytale](https://en.wikipedia.org/wiki/Scytale) Ribbon wrapped around a poll. [Decoder](https://www.dcode.fr/scytale-cipher)
   * Colors used: Brown, Green, Red
-
 
 * [Using the big dipper to find the north star](http://earthsky.org/tonight/use-big-dipper-to-find-polaris-the-north-star)
 
@@ -50,4 +48,4 @@
 
 * (Pheidippides)[https://en.wikipedia.org/wiki/Pheidippides],  marathon race. run from Marathon to Athens to deliver news of a military victory against the Persians at the Battle of Marathon.
 
-* (House of cards)[https://en.wikipedia.org/wiki/House_of_Cards_(U.S._TV_series)]
+* (House of Cards, TV Series)[https://en.wikipedia.org/wiki/House_of_Cards_(U.S._TV_series)]
