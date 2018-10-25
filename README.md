@@ -42,7 +42,7 @@
 * (Firefighters lost in Wildfire)[https://www.cbsnews.com/news/shock-over-loss-of-19-ariz-firefighters-in-wildfire/]
 * (Pheidippides)[https://en.wikipedia.org/wiki/Pheidippides],  marathon race. run from Marathon to Athens to deliver news of a military victory against the Persians at the Battle of Marathon.
 * (House of Cards, TV Series)[https://en.wikipedia.org/wiki/House_of_Cards_(U.S._TV_series)]
-* [Time Magaizne](https://en.wikipedia.org/wiki/Time_(magazine))
+* [Time Magaizne](https://en.wikipedia.org/wiki/Time_(magazine)) x2? there are two of them
 
 ![time magazine logo](./img/time-mag.png)
 
