@@ -20,14 +20,14 @@
 * This clue: ?
    * stuBBorNNeSS
    * miLLeNNiaLLy
-* `llab gnilwob eht ...llab eht htiw lwarC` . -> `Crawl with the ball.. the bowling ball`
+* `llab gnilwob eht ...llab eht htiw lwarC` . -> Crawl with the ball.. the bowling ball (backwards?)
 * `itz BASE ick AIR RIFF MEDIC` -> Its basic Arithmetic
 * `Autoantonyms: Should we sanction their use <?> or sanction those who use them?`
 
 ### Numbers, Physics, Codes
 * Number repeated along the border: 655321
 * Circuits [Series vs Parallel](https://physics.bu.edu/py106/notes/Circuits.html)
-  * ![Risistors Color Codes](./img/Resistor-Color-Code-Guide.jpg)
+![Risistors Color Codes](./img/Resistor-Color-Code-Guide.jpg)
     * 203, 453, 683, 183
 * [Scytale](https://en.wikipedia.org/wiki/Scytale) Ribbon wrapped around a poll. [Decoder](https://www.dcode.fr/scytale-cipher)
   * Colors used: Brown, Green, Red
