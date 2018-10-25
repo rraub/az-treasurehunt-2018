@@ -22,7 +22,7 @@
    * miLLeNNiaLLy
 * `llab gnilwob eht ...llab eht htiw lwarC` . -> Crawl with the ball.. the bowling ball (backwards?)
 * `itz BASE ick AIR RIFF MEDIC` -> Its basic Arithmetic
-* `Autoantonyms: Should we sanction their use <?> or sanction those who use them?`
+* [Autoantonyms](https://en.wikipedia.org/wiki/Auto-antonym): Should we sanction their use <?> or sanction those who use them?
 
 ### Numbers, Physics, Codes
 * Number repeated along the border: 655321
