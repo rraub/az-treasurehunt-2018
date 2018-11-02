@@ -33,6 +33,7 @@
   * Colors used: Brown, Green, Red
 * Morse code `MORSECODE`
 [Table](https://morsecode.scphillips.com/morse2.html) & [Translator](https://morsecode.scphillips.com/translator.html)
+* [Base 16 Conversion](http://wims.unice.fr/wims/en_tool~number~baseconv.en.html)
 
 ### Trivia stuff?
 * [Using the big dipper to find the north star](http://earthsky.org/tonight/use-big-dipper-to-find-polaris-the-north-star)
